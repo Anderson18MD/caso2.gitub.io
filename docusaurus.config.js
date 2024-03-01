@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Anderson18MD.gitub.io/',
+  url: 'https://Anderson18MD.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/CASO-02/',
+  baseUrl: '/caso2.gitub.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Anderson18MD', // Usually your GitHub org/user name.
-  projectName: 'CASO-02', // Usually your repo name.
+  projectName: 'caso2.gitub.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
